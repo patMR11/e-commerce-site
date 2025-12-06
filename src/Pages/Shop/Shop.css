@@ -1,0 +1,10 @@
+.shop-container{
+    padding-top: 100px;
+    display: flex;
+}
+
+@media(max-width:1024px){
+    .shop-container{
+        display:block;
+    }
+}

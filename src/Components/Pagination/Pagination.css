@@ -1,0 +1,26 @@
+.page-item{
+    padding: 10px;
+}
+.pagination-numbers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination-numbers button{
+    padding:10px ;
+    border: none;
+}
+
+.pagination-numbers button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+@media(max-width:1024px){
+    .pagination-numbers{
+        border:1px solid red;
+        width:100%;
+    }
+}

@@ -1,0 +1,209 @@
+[
+    {
+        "sport": "football",
+        "image": "/images/brazuca.jpg",
+        "name": "Brazuca Football",
+        "price": 109
+    },
+    {
+        "sport": "football",
+        "image": "/images/football_guards.jpg",
+        "name": "Football Shin Guards",
+        "price": 25
+    },
+    {
+        "sport": "football",
+        "image": "/images/freekick.jpg",
+        "name": "Freekick Mannequins",
+        "price": 199
+    },
+    {
+        "sport": "football",
+        "image": "/images/goalpost.jpg",
+        "name": "Full-Size Goalpost",
+        "price": 450
+    },
+    {
+        "sport": "football",
+        "image": "/images/goalpost2.jpg",
+        "name": "Portable Goalpost",
+        "price": 180
+    },
+    {
+        "sport": "football",
+        "image": "/images/goalpost3.jpeg",
+        "name": "Small Training Goalpost",
+        "price": 120
+    },
+    {
+        "sport": "football",
+        "image": "/images/jabulani.jpg",
+        "name": "Jabulani Football",
+        "price": 130
+    },
+    {
+        "sport": "football",
+        "image": "/images/qatar.jpg",
+        "name": "FIFA World Cup Qatar Ball",
+        "price": 160
+    },
+    {
+        "sport": "football",
+        "image": "/images/telstar.jpg",
+        "name": "Telstar 18 Football",
+        "price": 140
+    },
+    {
+        "sport": "football",
+        "image": "/images/ucl.jpg",
+        "name": "Champions League Ball",
+        "price": 170
+    },
+    
+    {
+        "sport": "basketball",
+        "image": "/images/basketball_armsleeves.jpg",
+        "name": "Basketball Arm Sleeves",
+        "price": 15
+    },
+    {
+        "sport": "basketball",
+        "image": "/images/basketball_hoop.jpg",
+        "name": "Basketball Hoop",
+        "price": 120
+    },
+    {
+        "sport": "basketball",
+        "image": "/images/basketball_legsleeves.jpg",
+        "name": "Basketball Leg Sleeves",
+        "price": 18
+    },
+    {
+        "sport": "basketball",
+        "image": "/images/basketball1.jpg",
+        "name": "Basketball - Canada",
+        "price": 30
+    },
+    {
+        "sport": "basketball",
+        "image": "/images/basketball2.jpg",
+        "name": "Basketball - Wilson",
+        "price": 35
+    },
+    {
+        "sport": "basketball",
+        "image": "/images/basketball3.jpg",
+        "name": "Basketball - Tournament",
+        "price": 28
+    },
+    {
+        "sport": "combat",
+        "image": "/images/boxing_bag.jpg",
+        "name": "Boxing Bag",
+        "price": 85
+    },
+    {
+        "sport": "combat",
+        "image": "/images/boxing_gloves1.jpg",
+        "name": "Boxing Gloves - Black",
+        "price": 40
+    },
+    {
+        "sport": "combat",
+        "image": "/images/boxing_gloves2.webp",
+        "name": "Boxing Gloves - Red",
+        "price": 42
+    },
+    {
+        "sport": "combat",
+        "image": "/images/boxing_gloves3.jpg",
+        "name": "Boxing Gloves - Black & Gold",
+        "price": 50
+    },
+    {
+        "sport": "basketball",
+        "image": "/images/full_basketball_hoop.jpg",
+        "name": "Full Basketball Hoop",
+        "price": 180
+    },
+    {
+        "sport": "combat",
+        "image": "/images/grapplingdummy.jpg",
+        "name": "Grappling Dummy",
+        "price": 90
+    },
+    {
+        "sport": "combat",
+        "image": "/images/mma_gloves1.jpg",
+        "name": "MMA Gloves - Black",
+        "price": 35
+    },
+    {
+        "sport": "combat",
+        "image": "/images/mma_gloves2.jpg",
+        "name": "MMA Gloves - Red",
+        "price": 38
+    },
+    {
+        "sport": "tennis",
+        "image": "/images/racket1.jpg",
+        "name": "Tennis Racket - Blue",
+        "price": 70
+    },
+    {
+        "sport": "tennis",
+        "image": "/images/racket2.jpeg",
+        "name": "Tennis Racket - Red",
+        "price": 75
+    },
+    {
+        "sport": "combat",
+        "image": "/images/reflex_boxing.jpg",
+        "name": "Reflex Boxing Ball",
+        "price": 30
+    },
+    {
+        "sport": "tennis",
+        "image": "/images/tennis_pack.jpg",
+        "name": "Tennis Ball Pack",
+        "price": 25
+    },
+    {
+        "sport": "gym",
+        "image": "/images/lifting-gloves.jpg",
+        "name": "Lifting Gloves",
+        "price": 25
+    },
+    {
+        "sport": "gym",
+        "image": "/images/gym-mat.jpg",
+        "name": "Gym Mat",
+        "price": 30
+    },
+    {
+        "sport": "gym",
+        "image": "/images/knee-sleeves.jpg",
+        "name": "Knee Sleeves",
+        "price": 40
+    },
+    {
+        "sport": "gym",
+        "image": "/images/resistance-bands.jpg",
+        "name": "Resistance Bands",
+        "price": 20
+    },
+    {
+        "sport": "gym",
+        "image": "/images/weightlifting-belt.jpg",
+        "name": "Weightlifting Belt",
+        "price": 50
+    },
+    {
+        "sport": "gym",
+        "image": "/images/theragun.jpg",
+        "name": "Theragun",
+        "price": 150
+    }
+    
+]
+      

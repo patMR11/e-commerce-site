@@ -1,0 +1,96 @@
+.navigation-bar{
+    background-color: rgba(27, 24, 24, 0.986);
+    position: fixed;
+    top:0;
+    z-index: 1000;
+    width: 100%;
+    left:0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation-bar img{
+    height: 60px;
+    margin: 0px 10px;
+}
+.nav-middle{
+    display: flex;
+    font-size:16px;
+    font-weight: bold;
+}
+.nav-middle p{
+    color: white;
+    margin:0px 20px;
+}
+.nav-middle p:hover{
+    color:red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.nav-right{
+    margin-right: 10px;
+}
+
+a:visited{
+    text-decoration: none;
+    color:inherit;
+}
+.fa-icon{
+    margin: 0px 10px;
+    color:white
+}
+.fa-icon:hover{
+    color:red;
+    cursor: pointer;
+}
+.sport-content{
+    position: relative;
+}
+.dropdown-content{
+    background-color: rgba(27, 24, 24, 0.986);
+    position: absolute;  
+    z-index: 1;
+    display: none;
+    top:100%;
+    left:0%;
+}
+.dropdown-content p{
+    color:white; 
+    margin:10px;
+}
+.sport-content:hover .dropdown-content{
+    display: block;
+}
+.smallMenu-icon{
+    display:none;
+}
+.small-nav{
+    display:flex;
+    align-items:flex-end;
+    gap:0.35rem;
+    flex-direction:column;
+    position:absolute;
+    top:100%;
+    right:0;
+    left:0;
+    background-color:black;
+    width:100%;
+    overflow:hidden;
+    z-index:100;
+    max-height: 0;
+    transition: max-height 0.3s ease-in-out
+
+}
+@media (max-width:1024px){
+    .nav-right{
+        display:none;
+    }
+    .small-nav.open{
+        max-height:25rem;
+    }
+
+    .smallMenu-icon{
+        display:block;
+    }
+}
+
