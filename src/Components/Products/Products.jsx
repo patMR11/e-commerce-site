@@ -29,14 +29,9 @@ function Products({setItems, sportCategory, sortOrder}) {
     const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
     useEffect(()=>{
-        fetch(`${process.env.PUBLIC_URL}/data.json`)
-            .then(res => {
-                if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-                return res.json();
-            })
-            .then(data => console.log(data))
-            .catch(err => console.error("Fetch error:", err));
-
+        fetch('data.JSON')
+            .then((response) => response.json())
+            .then((data) => setProduct(data))
     },[])
 
     useEffect(()=>{
