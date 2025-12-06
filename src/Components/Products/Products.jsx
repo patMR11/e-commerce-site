@@ -29,7 +29,7 @@ function Products({setItems, sportCategory, sortOrder}) {
     const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
     useEffect(()=>{
-        fetch('/data.JSON')
+        fetch(`${process.env.PUBLIC_URL}/data.json`)
             .then((response) => response.json())
             .then((data) => setProduct(data))
     },[])
